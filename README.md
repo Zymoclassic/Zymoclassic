@@ -11,7 +11,18 @@
   
 
 - ⚡ Fun fact: Do you know that the term "bug" in computer programming originated in 1947 when a moth caused a malfunction in the Mark II computer at Harvard University. Engineers literally removed the moth from the hardware, coining the term "debugging" for fixing code errors.  
-  
+
+## 📊 My Github Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zymoclassic&show_icons=true&theme=radical" />
+
+<p align="left">
+    <a href="https://github.com/Zymoclassic/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zymoclassic's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zymoclassic&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zymoclassic&layout=compact" />
 
 <br/>  
 
