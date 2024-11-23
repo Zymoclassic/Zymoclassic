@@ -2,9 +2,7 @@
   
 
 - 🔭 I’m currently working on [Kushwifhat](https://github.com/zymoclassic/kushwifhat)  
-  
 
-- 🌱 I’m currently learning NextJS  
   
 
 - ❓ Ask me about anything related to MERN stack, Django, Frontend Development, Backend Development and related technologies  
