@@ -3,7 +3,7 @@
 You are welcome to my Github, Check out my portfolio website [here](https://www.kolawolemawopeju.online).
   
 
-- 🔭 I’m currently working on [Kushwifhat](https://github.com/zymoclassic/kushwifhat)  
+- 🔭 I’m currently working on a MERN-stack project [Kushwifhat](https://kushwifhat.xyz), you can check the [Codebase](https://github.com/zymoclassic/kushwifhat)
 
   
 
