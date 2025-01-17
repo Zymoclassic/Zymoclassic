@@ -14,7 +14,7 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 
 ## 📊 My Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zymoclassic&show_icons=true&theme=radical" />
+
 
 <p align="left">
     <a href="https://github.com/Zymoclassic/github-readme-streak-stats">
