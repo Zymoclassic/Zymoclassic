@@ -7,7 +7,7 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 
   
 
-- ❓ Ask me about anything related to MERN stack, Django, Frontend Development, Backend Development and related technologies  
+- ❓ Ask me about anything related to JavaScript, Python, MERN stack, Django, Frontend Development, Backend Development and related technologies  
   
 
 - ⚡ Fun fact: Do you know that the term "bug" in computer programming originated in 1947 when a moth caused a malfunction in the Mark II computer at Harvard University. Engineers literally removed the moth from the hardware, coining the term "debugging" for fixing code errors.  
