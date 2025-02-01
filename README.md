@@ -5,8 +5,6 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 
 - 🔭 I’m currently working on a MERN-stack project [Kushwifhat](https://kushwifhat.xyz), you can check the [Codebase](https://github.com/zymoclassic/kushwifhat)
 
-  
-
 - ❓ Ask me about anything related to JavaScript, Python, MERN stack, Django, Frontend Development, Backend Development and related technologies  
   
 
