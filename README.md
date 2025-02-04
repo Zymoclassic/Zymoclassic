@@ -11,10 +11,10 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 - ⚡ Fun fact: Do you know that the term "bug" in computer programming originated in 1947 when a moth caused a malfunction in the Mark II computer at Harvard University. Engineers literally removed the moth from the hardware, coining the term "debugging" for fixing code errors.  
 
 ## 📊 My Github Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zymoclassic)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zymoclassic)](https://git.io/streak-stats)
 <p align="left">
-    <a href="https://github.com/Zymoclassic/github-readme-streak-stats">  
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zymoclassic's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zymoclassic&theme=black-ice&hide_border=true&stroke=000000&background=ffffff"/>  
+    <a href="https://github.com/zymoclassic/github-readme-streak-stats">  
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zymoclassic's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zymoclassic&theme=black-ice&hide_border=true&stroke=000000&background=ffffff"/>  
 </a>  
 </p>
 
