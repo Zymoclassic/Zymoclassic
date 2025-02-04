@@ -12,11 +12,7 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 
 ## 📊 My Github Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zymoclassic)](https://git.io/streak-stats)
-<p align="left">
-    <a href="https://github.com/zymoclassic/github-readme-streak-stats">  
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zymoclassic's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zymoclassic&theme=black-ice&hide_border=true&stroke=000000&background=ffffff"/>  
-</a>  
-</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zymoclassic&layout=compact" />
 
