@@ -83,7 +83,6 @@ You are welcome to my Github, Check out my portfolio website [here](https://www.
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/zymoclassic" target="_blank">
